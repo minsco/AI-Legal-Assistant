@@ -1,14 +1,14 @@
 # AI-Legal-Assistant
 📚 GPT-4와 LangGraph 기반의 AI 법률 상담 서비스. 사용자의 질문을 분석하고, Pinecone에 벡터화된 법률 PDF 문서를 검색하여 정확하고 근거 기반의 법률 상담을 제공합니다. Streamlit UI와 PDF 리포트 출력 기능까지 지원합니다.
 
-# 🧑‍⚖️ AI 법률 상담 시스템 (LangGraph + Streamlit)
+## 🧑‍⚖️ AI 법률 상담 시스템 (LangGraph + Streamlit)
 
 GPT-4와 LangGraph, Pinecone, Streamlit을 활용한 **AI 기반 법률 상담 서비스**입니다.  
 사용자의 질문을 분석하고, 관련 법령을 기반으로 판단과 요약을 제공하며, 상담 결과를 PDF로 저장할 수 있습니다.
 
 ---
 
-## ✅ 주요 기능
+### ✅ 주요 기능
 
 ### 1. 질문 분석 (HITL 포함)
 - 질문 내용을 GPT-4가 분석하여 법률 분야 및 쟁점을 도출
